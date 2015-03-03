@@ -1,0 +1,2 @@
+# Skladishce
+prvo skladiste
